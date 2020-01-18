@@ -4,7 +4,7 @@ public ClassGrades(){
 	classList.put("Mary","C"); 
 	classList.put("Sarah","B");
 	classList.put("Philip","A");
-	classList.put("Greg","F");
+	
 }
 
 public void printClassList(){
