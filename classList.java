@@ -31,4 +31,6 @@ public void printClassList2(){
 public static void main(String[] args) {
 	ClassGrades myClassList = new ClassGrades();
 	myClassList.printClassList();
+	New Staging;
+}
 }
